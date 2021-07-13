@@ -1,4 +1,4 @@
-# sentiment_stocks
+# Stocks and Sentiment Analysis
 Exploration of sentiment and stock data
 
 
